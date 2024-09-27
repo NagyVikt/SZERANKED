@@ -15,7 +15,14 @@
 
 ## Projekt Leírás
 
-A **Scrapper API és GPT-4 Alapú SEO Projekt** célja, hogy hatékony eszközöket biztosítson keresőoptimalizálás (SEO) adatok gyűjtésére, feldolgozására és elemzésére. A projekt a **Scrapper API** segítségével gyűjt SEO adatokat, amelyeket a **GPT-4** mesterséges intelligencia modell értelmez és elemez, ezáltal segítve a weboldalak SEO teljesítményének javítását és a jövőbeli SEO stratégiák optimalizálását.
+A **Scrapper API és GPT-4 Alapú SEO Projekt** célja, hogy fejlett eszközökkel támogassa a keresőoptimalizálás (SEO) folyamatát, különösen egy webshop számára. A projekt középpontjában az áll, hogy SEO adatokat gyűjtsünk és elemezzünk olyan weboldalakról, amelyek hasonló termékeket kínálnak, mint a mi webshopunk. 
+
+Az adatgyűjtés során a **Scrapper API** segítségével feltérképezzük a releváns weboldalakat, és összegyűjtjük az ott található email címeket. Ezek az email címek azokhoz a weboldalakhoz tartoznak, amelyek témája vagy termékkínálata összhangban van a webshopunkkal. A projekt másik kulcsfontosságú eleme a **GPT-4** mesterséges intelligencia modell, amely elemzi az összegyűjtött adatokat, és személyre szabott javaslatokat készít arra vonatkozóan, hogyan lehetne egy visszacsatolási linkstratégiát kialakítani.
+
+A GPT-4 a webshop termékeit kreatívan integrálja az adott weboldal tartalmába, és emailt generál, amelyben kifejti, hogyan segíthetné az adott oldal tartalmi minőségét és SEO teljesítményét, ha hivatkoznának a webshop termékeire. Cserébe a webshop visszalinkelést ajánl fel, így mindkét fél SEO előnyeit maximalizálva egy kölcsönösen előnyös együttműködést javasol.
+
+Az így létrejött automatikus email kampány nemcsak a visszacsatolási linkek megszerzését célozza meg, hanem hosszú távon segít optimalizálni a webshop keresőmotoros megjelenését, erősítve annak láthatóságát és relevanciáját a versenypiacon. A folyamat teljesen automatizált, az adatok gyűjtésétől kezdve az email küldéséig, így minimális emberi beavatkozást igényel, miközben maximális hatékonyságot biztosít a SEO stratégiában.
+
 
 ## Főbb Jellemzők
 
